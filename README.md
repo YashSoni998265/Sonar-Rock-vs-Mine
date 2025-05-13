@@ -75,3 +75,11 @@ M → Mine
 
 The dataset (sonar.csv) is provided in this repository for your convenience.
 
+🤝 Contribution
+Contributions are welcome! Feel free to fork this repo and create a pull request.
+
+📧 Contact
+If you have any queries or suggestions, feel free to reach out.
+
+⭐ Don't forget to Star this Repository!
+If you found this project helpful, show your support by starring ⭐ the repo!
